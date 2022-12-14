@@ -9,5 +9,8 @@
         <module name="Routine" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="IdeaProjects" target="19" />
+    </bytecodeTargetLevel>
   </component>
 </project>
