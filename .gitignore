@@ -40,6 +40,8 @@ cmake-build-*/
 
 # File-based project format
 *.iws
+*.xml
+*.idea
 
 # IntelliJ
 out/
@@ -70,3 +72,5 @@ fabric.properties
 # macOS files
 /DS_Store/
 DS_Store
+
+/target/
