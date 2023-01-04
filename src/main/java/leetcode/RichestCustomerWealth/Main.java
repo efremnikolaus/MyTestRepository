@@ -1,5 +1,4 @@
 package leetcode.RichestCustomerWealth;
-
 /* Exercise #1672 on leetcode */
 class Main {
     public int maximumWealth(int[][] accounts) {
