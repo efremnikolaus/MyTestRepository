@@ -1,12 +1,12 @@
-package leetcode.FizzBuzz;
 /* Exercise #412 on leetcode */
+package leetcode.FizzBuzz;
+
 import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
     public List<String> fizzBuzz(int n) {
         List<String> answer = new ArrayList<>(n);
-
         for(int i = 1; i<=n; i++) {
             boolean divisibleBy3 = i % 3 == 0;
             boolean divisibleBy5 = i % 5 == 0;
