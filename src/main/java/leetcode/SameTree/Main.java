@@ -1,3 +1,4 @@
+/* Exercise #1 on leetcode */
 package leetcode.SameTree;
 
 public class Main {
